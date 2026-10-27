@@ -1,7 +1,7 @@
 # DevRelCon 2027 Speaker Application
 
 Below are some of the long-form questions you'll need to answer as you apply to speak at DevRelCon 2027. We have them broken out here so you can prepare in the text editor of your choice. 
-[official application form](https://majorleaguehacking.typeform.com/to/WWGhI7iB).
+[You can find the official application form](https://majorleaguehacking.typeform.com/to/WWGhI7iB).
 
 FYI that the CfP form has other short questions (name, email, travel, demographics, socials, headshot) that aren't listed here.
 
